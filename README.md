@@ -1,4 +1,5 @@
-__Information sheet__
+# A scoping Delphi study for the co-development of a clinical visual grading system for female genital schistosomiasis. 
+
 __What is the purpose of the study?__
 It has been more than ten years since members of the female genital schistosomiasis (FGS) field gathered to form a consensus on visual diagnostics for FGS. The resulting diagnostic criteria was based on the binary classification (presence/absence) of one or more of the classic lesion types (grainy sandy patches, homogenous sandy patches, abnormal vessels, and rubbery papules). The strictly binary diagnosis, which affords nothing to extent, severity or location of clinical signs, limits our ability to accurately assess and track the progression of FGS. The development of a more refined grading tool could not only provide guidance on the systematised classification of FGS symptoms but also inform appropriate management steps. Crucially, a grading system that records could also provide a method to monitor disease progression, treatment efficacy, disease persistence and reoccurrence. 
 
