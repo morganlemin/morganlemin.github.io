@@ -58,9 +58,10 @@ Unfortunately, due to the requirements of anonymity we are unable to provide a l
 #### Participant Benefits
 
 To be eligible for co-authorship, the following criteria needs to be met: 
-•	Completion of the primary round questionnaires AND, 
-•	Completion of at least one of the secondary round questionnaires AND, 
-•	Review of the publication draft and confirmation that you are happy for it to be submitted.
++ Completion of the primary round questionnaires AND, 
++ Completion of at least one of the secondary round questionnaires AND, 
++ Review of the publication draft and confirmation that you are happy for it to be submitted.
+
 An acknowledgment section will also be available for those who do not want to be considered for co-authorship or who do not meet the criteria for co-authorship.  You will be asked whether you would like to be considered for co-authorship during the onboarding questionnaire. 
 
 #### Can I change my mind about taking part?
@@ -95,9 +96,9 @@ The Delphi methodology is well fitted to this study as there is currently a lack
 
 You have been identified as an expert in the field of FGS, particularly relating to visual diagnosis. This is based on our expert criteria, as follows: 
 
-•	Anyone who, in the last five years, has reviewed a colposcope image for the purposes of visually diagnosing or managing FGS.
-      o	If this was done in an academic capacity then the participant needs to have experience in, and a thorough understanding of, visual diagnostics for FGS and associated symptoms. To be considered, the participant needs to have     published an FGS paper within the last ten years.  
-      o	If this was done in a field-based allied care practitioner capacity, then the participant should have experience with reviewing images and providing an FGS diagnosis based on visualisation. Job titles could include midwives, community health nurses, gynaecologists etc.
++ Anyone who, in the last five years, has reviewed a colposcope image for the purposes of visually diagnosing or managing FGS.
+            - If this was done in an academic capacity then the participant needs to have experience in, and a thorough understanding of, visual diagnostics for FGS and associated symptoms. To be considered, the participant needs to have     published an FGS paper within the last ten years.  
+            - If this was done in a field-based allied care practitioner capacity, then the participant should have experience with reviewing images and providing an FGS diagnosis based on visualisation. Job titles could include midwives, community health nurses, gynaecologists etc.
 
 #### What is an example of a successful Delphi study?
 
