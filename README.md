@@ -57,7 +57,7 @@ Unfortunately, due to the requirements of anonymity we are unable to provide a l
 
 #### Participant Benefits
 
-To be eligible for co-authorship, the following criteria needs to be met: 
+To be eligible for co-authorship of any future journal or resource publications, the following criteria needs to be met: 
 + Completion of the primary round questionnaires AND, 
 + Completion of at least one of the secondary round questionnaires AND, 
 + Review of the publication draft and confirmation that you are happy for it to be submitted.
