@@ -1,5 +1,5 @@
 layout: page
 title: "R1-RESULTS"
-permalink: (https://morganlemin.github.io/R1RESULTS)
+permalink: /R1RESULTS
 
 # Results pending. 
