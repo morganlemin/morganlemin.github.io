@@ -1,5 +1,3 @@
-layout: page
-title: "R1-RESULTS"
-permalink: https://morganlemin.github.io/r1results
+# The results for round one are pending. 
 
-# Results pending. 
+We will email you when the results are ready for review. 
