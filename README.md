@@ -37,11 +37,11 @@ The aim of the questionnaires within the scoping phase is to assess and understa
 
 The first scoping phase questionnaire has been formed based on a review of available literature and analysis of other successful clinical grading systems. The first questionnaire has been designed to inform the content of subsequent surveys and therefore not all questions, such as the free text questions relating to current practice, require consensus to move onto the constructive phase. The free text questions will be analysed for recurring themes. The binary questions (yes/no) will be analysed for percentage responses, with a consensus threshold 60%. The 1-10 range scale questions will again be analysed for percentage responses, with a consensus threshold of 70% of experts scoring within two points. Additional scoping phase questionnaires may also be sent out, even if consensus is reached, if the responses to the free text questions reveal any area that requires further investigation.
 
-After the scoping phase is complete and consensus is reached on the close-ended (binary and range scale) questions, the Delphi process will proceed to the constructive phase. After the scoping phase is complete and consensus is reached on the close-ended (binary and range scale) questions, the Delphi process will proceed to the constructive round.
+After the scoping phase is complete and consensus is reached on the close-ended (binary and range scale) questions, the Delphi process will proceed to the constructive phase. 
 
 ##### Constructive phase:
 
-In the constructive phase questionnaires, experts will be presented with aspects of multiple FGS clinical grading systems created based on the results of the scoping phase questionnaires. The question format will primarily be binary (yes/no) and will be analysed for percentage agreement. A percentage agreement of 60% will be required to move from the constructive phase to the refinement phase questionnaires. 
+In the constructive phase, experts will review aspects of various FGS clinical grading systems that have been developed using the findings from the scoping phase questionnaires. The question format will primarily be binary (yes/no) and will be analysed for percentage agreement. A percentage agreement of 60% will be required to move from the constructive phase to the refinement phase questionnaires. 
 
 ##### Refinement phase:
 
@@ -97,7 +97,6 @@ We offer co-authorship of any scientific publications that will be produced from
 + Review of the publication draft and confirmation that you are happy for it to be submitted.
 
 An acknowledgment section will also be available for those who do not want to be considered for co-authorship or who do not meet the criteria for co-authorship.   
-
 
 #### Can I change my mind about taking part?
 
