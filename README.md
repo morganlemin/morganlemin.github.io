@@ -11,8 +11,8 @@ There are numerous examples of clinical severity grading systems that are in use
 1.	To review the list of clinical signs that experts believe can be used as visual diagnostic criteria.
 2.	To understand which clinical signs can be recorded in granular terms of their severity, location, extent and presentation.
 3.	To find consensus on the most appropriate scales, definitions, and classifications that could be used to record each clinical sign
-4.	To understand the use-cases for a simple and an extended FGS clinical grading system.
-5.	To build a simple grading system (that could be used in field clinics) AND/OR an extended grading system (that can be used to fully characterise clinical signs from photographs).
+4.	To understand the use-cases for a simplified and an extended FGS clinical grading system.
+5.	To build a simplified grading system (that could be used in field clinics) AND/OR an extended grading system (that can be used to fully characterise clinical signs from photographs).
 
 #### What is a Delphi study?
 
