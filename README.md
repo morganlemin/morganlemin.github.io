@@ -8,11 +8,12 @@ It has been more than ten years since members of the female genital schistosomia
 
 There are numerous examples of clinical severity grading systems that are in use, such as grading systems for atopic dermatitis (SCORAD), pressure ulcer classification (NPUAP-EPUAP), diabetic neuropathy and trachoma. The aims of this study, using Delphi methodology, are:
 
-1.	To review the list of clinical signs that experts believe can be used as visual diagnostic criteria.
-2.	To understand which clinical signs can be recorded in granular terms of their severity, location, extent and presentation.
-3.	To find consensus on the most appropriate scales, definitions, and classifications that could be used to record each clinical sign
-4.	To understand the use-cases for a simplified and an extended FGS clinical grading system.
-5.	To build a simplified grading system (that could be used in field clinics) AND/OR an extended grading system (that can be used to fully characterise clinical signs from photographs).
+1.	To determine whether global experts in FGS have confidence in the use of clinical signs as indicators of disease and by doing so establish whether the development of a clinical visual grading system for FGS is justified.
+
+2.	To understand the various settings in which such a system would be used, i.e. during live clinical examination and/or in post-examination review of photographs.
+
+3.	To co-create grading systems that are appropriate for the settings determined above (see 2). Working with experts to reach consensus on what form the clinical grading system would take, for instance by establishing which clinical signs should be graded, and how.
+
 
 #### What is a Delphi study?
 
