@@ -6,7 +6,7 @@
 
 It has been more than ten years since members of the female genital schistosomiasis (FGS) field gathered to form a consensus on visual diagnostics for FGS. The resulting diagnostic criteria was based on the binary classification (presence/absence) of one or more of the classic lesion types (grainy sandy patches, homogenous sandy patches, abnormal vessels, and rubbery papules). The strictly binary diagnosis, which affords nothing to extent, severity or location of clinical signs, limits our ability to accurately assess and track the progression of FGS. The development of refined grading tool could not only provide guidance on the systematised classification of FGS symptoms but also inform appropriate management steps. Crucially, a grading system could also provide a standardised method to monitor disease progression, treatment efficacy, disease persistence and reoccurrence.
 
-There are numerous examples of clinical severity grading systems that are in use, such as grading systems for atopic dermatitis (SCORAD), pressure ulcer classification (NPUAP-EPUAP), diabetic neuropathy and trachoma. The aims of this study, using Delphi methodology, are:
+There are numerous examples of clinical severity grading systems that are in use, such as grading systems for atopic dermatitis (SCORAD), pressure ulcer classification (NPUAP-EPUAP), diabetic neuropathy and trachoma. The aims of this study, using the Delphi method, are:
 
 1.	To determine whether global experts in FGS have confidence in the use of clinical signs as indicators of disease and by doing so establish whether the development of a clinical visual grading system for FGS is justified.
 
@@ -19,9 +19,9 @@ There are numerous examples of clinical severity grading systems that are in use
 
 Delphi studies are generally implemented when the knowledge available on a topic is incomplete or uncertain. They work by first convening a group of experts in the field and then providing them with iterative rounds of survey questionnaires until consensus is reached. Each questionnaire is followed by a summary of the results from previous questionnaire and feedback sent to the expert participants. Thereby, Delphi facilitates a structured process for a group of experts to communicate, reach consensus or define the areas where consensus is not possible. Tamarozzi et al. (2024) conducted a Delphi study on definitions in imported human schistosomiasis.
 
-#### Why is the Delphi methodology appropriate for this study?
+#### Why is the Delphi method appropriate for this study?
 
-The Delphi methodology is well fitted to this study as there is currently a lack of consensus about how to systematically and reproducibly classify images for signs of disease. It is highly likely that the current level of expertise is sufficient to build a clinically relevant, structurally granular and functionally systematic grading system. Future clinical and field studies may be able to be designed around the results of this study and there will be great value in performing formal diagnostic evaluations of any grading system created through this process. This is primarily because FGS is a disease that has complex, often subtle and highly heterogeneous presentation between cases. It remains unclear whether any clinical grading system for FGS can be diagnostically accurate (correct) or precise (repeatable) when used at scale, so understanding the potential role for a grading system in FGS diagnosis and management will be a key pathway to impact of this work.
+The Delphi method is well fitted to this study as there is currently a lack of consensus about how to systematically and reproducibly classify images for signs of disease. It is highly likely that the current level of expertise is sufficient to build a clinically relevant, structurally granular and functionally systematic grading system. Future clinical and field studies may be able to be designed around the results of this study and there will be great value in performing formal diagnostic evaluations of any grading system created through this process. This is primarily because FGS is a disease that has complex, often subtle and highly heterogeneous presentation between cases. It remains unclear whether any clinical grading system for FGS can be diagnostically accurate (correct) or precise (repeatable) when used at scale, so understanding the potential role for a grading system in FGS diagnosis and management will be a key pathway to impact of this work.
 
 #### What is the process of this Delphi study?
 
@@ -71,9 +71,12 @@ For the study to conclude (termination criteria), there needs to be a percentage
 
 #### What will the outcome of this survey be?
 
-We aim to develop an FGS clinical grading system/s that will increase standardisation in visual diagnostics for FGS and change FGS diagnosis from binary to graded.
+It is currently unclear whether practitioners have confidence in the use of such clinical signs in diagnosis, prognosis and management of FGS. In the case that this Delphi finds consensus that visible clinical signs should not be used for these purposes, then this will open the door to more investment in alternative indicators.
+
+In the case that there is consensus that one or more clinical grading instrument will add value to the diagnosis, prognosis and management of FGS, this process will create those instruments, taking in to account a plurality of opinion and a diversity of expertise. By establishing instruments that are the product of community consensus, this study will maximise the potential that the tools come in to standardised use, via a process of validation in follow up studies that may aim to estimate the diagnostic accuracy of the grading systems.
 
 The resultant clinical grading system/s will be developed alongside reference guides, including posters and information packs. The results will be written up and published in an open-source journal. Anonymised data, along with any resources developed as part of this study, will be provided completely open-source and free-of-charge.
+
 
 #### Duration
 
