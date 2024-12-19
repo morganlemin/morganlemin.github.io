@@ -109,7 +109,7 @@ Yes.  You can withdraw from the study at any time, without providing any reason.
 #### Where will data be stored? 
 The surveys will be designed, and data collected using ODK. The data, including the names and email addresses of the participants, will be stored on LSHTM’s SharePoint. 
 
-Each participant will be assigned a study ID in the format of FGSD001, FGSD002 etc. A password protected identification master sheet will include the study participants full name, email address and institutional affiliation along with the associated study ID. Once a submission is made, the ‘substantive data’ will be linked to the expert’s study ID and any other ID variables will be removed to create an analysis data sheet.
+Each participant will be assigned a study ID. A password protected identification master sheet will include the study participants full name, email address and institutional affiliation along with the associated study ID. Once a submission is made, the ‘substantive data’ will be linked to the expert’s study ID and any other ID variables will be removed to create an analysis data sheet.
 
 All analysis will be done on a password-protected laptop.
 
