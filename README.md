@@ -4,7 +4,7 @@
 
 #### What is the purpose of the study?
 
-It has been more than ten years since members of the female genital schistosomiasis (FGS) field gathered to form a consensus on visual diagnostics for FGS. The resulting diagnostic criteria was based on the binary classification (presence/absence) of one or more of the classic lesion types (grainy sandy patches, homogenous sandy patches, abnormal vessels, and rubbery papules). The strictly binary diagnosis, which affords nothing to extent, severity or location of clinical signs, limits our ability to accurately assess and track the progression of FGS. The development of refined grading tool could not only provide guidance on the systematised classification of FGS symptoms but also inform appropriate management steps. Crucially, a grading system could also provide a standardised method to monitor disease progression, treatment efficacy, disease persistence and reoccurrence.
+It has been more than ten years since members of the female genital schistosomiasis (FGS) field gathered to form a consensus on visual diagnostics for FGS (1,2). The resulting diagnostic criteria was based on the binary classification (presence/absence) of one or more of the classic lesion types (grainy sandy patches, homogenous sandy patches, abnormal vessels, and rubbery papules) (3,4). The strictly binary diagnosis, which affords nothing to extent, severity or location of clinical signs, limits our ability to accurately assess and track the progression of FGS. The development of refined grading tool could not only provide guidance on the systematised classification of FGS symptoms but also inform appropriate management steps. Crucially, a grading system could also provide a standardised method to monitor disease progression, treatment efficacy, disease persistence and reoccurrence.
 
 There are numerous examples of clinical severity grading systems that are in use, such as grading systems for atopic dermatitis (SCORAD), pressure ulcer classification (NPUAP-EPUAP), diabetic neuropathy and trachoma. The aims of this study, using the Delphi method, are:
 
@@ -17,7 +17,7 @@ There are numerous examples of clinical severity grading systems that are in use
 
 #### What is a Delphi study?
 
-Delphi studies are generally implemented when the knowledge available on a topic is incomplete or uncertain. They work by first convening a group of experts in the field and then providing them with iterative rounds of survey questionnaires until consensus is reached. Each questionnaire is followed by a summary of the results from previous questionnaire and feedback sent to the expert participants. Thereby, Delphi facilitates a structured process for a group of experts to communicate, reach consensus or define the areas where consensus is not possible. Tamarozzi et al. (2024) conducted a Delphi study on definitions in imported human schistosomiasis.
+Delphi studies are generally implemented when the knowledge available on a topic is incomplete or uncertain (5). They work by first convening a group of experts in the field and then providing them with iterative rounds of survey questionnaires until consensus is reached. Each questionnaire is followed by a summary of the results from previous questionnaire and feedback sent to the expert participants. Thereby, Delphi facilitates a structured process for a group of experts to communicate, reach consensus or define the areas where consensus is not possible (5). Tamarozzi et al. (2024) conducted a Delphi study on definitions in imported human schistosomiasis (6).
 
 #### Why is the Delphi method appropriate for this study?
 
@@ -128,3 +128,17 @@ Principal Investigators: Chrissy Roberts, Amaya Bustinduy
 Independent Review Board/Ethics Committee: London School of Hygiene and Tropical Medicine
 
 Address of Independent Review Board: Keppel Street, London WC1E 7HT
+
+#### References 
+
+1.	World Health Organization. Female Genital Schistosomiasis, A Pocket Atlas for Clinical Healthcare Professionals. Geneva, Switzerland: WHO Press.
+   
+2. Norseth HM, Ndhlovu PD, Kleppa E, rianasolo BS, Jourdan PM, Roald B, et al. The Colposcopic Atlas of Schistosomiasis in the Lower Female Genital Tract Based on Studies in Malawi, Zimbabwe, Madagascar and South Africa. Plos NTD [Internet]. 2014 [cited 2024 Jan 29]; 8(11). Available from: https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003229&type=printable.
+   
+3. Randrianasolo BS, Jourdan PM, Ravoniarimbinina P, Ramarokoto CE, Rakotomanana F, Ravaoalimalala VE, et al. Gynecological manifestations, histopathological findings, and schistosoma-specific polymerase chain reaction results among women with Schistosoma haematobium infection: a cross-sectional study in Madagascar. J Infect Dis [Internet]. 2015 [cited 2024 Feb 24]; 212(2):[275-84 pp.]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4482143/#:~:text=Schistosoma%20PCR%20was%20done%20on,epithelial%20erosion%2C%20and%20viable%20ova.
+   
+4. Bustinduy AL, Randriansolo B, Sturt AS, Kayuni SA, Leustcher PDC, Webster BL, et al. An update on female and male genital schistosomiasis and a call to integrate efforts to escalate diagnosis, treatment and awareness in endemic and non-endemic settings: The time is now. Adv Parasitol [Internet]. 2022; 115:[1-44 pp.]. Available from: https://www.sciencedirect.com/science/article/abs/pii/S0065308X21000592.
+   
+5. Niederberger M, Spranger J. Delphi Technique in Health Sciences: A Map. Frontiers in Public Health. 2020;8.
+    
+6. Tamarozzi F, Mazzi C, Antinori S, Arsuaga M, Becker SL, Bottieau E, et al. Consensus definitions in imported human schistosomiasis: a GeoSentinel and TropNet Delphi study. The Lancet Infectious Diseases [Internet]. 2024; 24(10):[e627-e37 pp.]. Available from: https://doi.org/10.1016/S1473-3099(24)00080-X.
