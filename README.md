@@ -117,7 +117,7 @@ All analysis will be done on a password-protected laptop.
 
 Lead Researcher: Morgan Lemin (PhD Candidate) 
 
-Daytime telephone number(s): +44 020 79272220
+Daytime telephone number: +44 020 79272220
 
 Email: morgan.lemin@lshtm.ac.uk	
 
