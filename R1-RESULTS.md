@@ -33,6 +33,24 @@ ul.task-list li input[type="checkbox"] {
 <script src="delphi_R1Analysis_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="delphi_R1Analysis_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="delphi_R1Analysis_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="delphi_R1Analysis_files/libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="delphi_R1Analysis_files/libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="delphi_R1Analysis_files/libs/plotly-binding-4.10.4/plotly.js"></script>
+
+<script src="delphi_R1Analysis_files/libs/typedarray-0.1/typedarray.min.js"></script>
+
+<script src="delphi_R1Analysis_files/libs/jquery-3.5.1/jquery.min.js"></script>
+
+<link href="delphi_R1Analysis_files/libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
+
+<script src="delphi_R1Analysis_files/libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+
+<link href="delphi_R1Analysis_files/libs/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet">
+
+<script src="delphi_R1Analysis_files/libs/plotly-main-2.11.1/plotly-latest.min.js"></script>
+
 
 
 </head>
@@ -68,12 +86,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="have-you-ever-used-any-kind-of-standardised-or-structured-clinical-grading-system-for-assessing-fgs">1.1 Have you ever used any kind of standardised or structured clinical grading system for assessing FGS?</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 1: Responses from expert participants on whether they have ever used a standardised or structured clinical grading system for assessing FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-c8a6bdf17caefdb88310" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-c8a6bdf17caefdb88310">{"x":{"visdat":{"9c58fe320f7":["function () ","plotlyVisDat"]},"cur_data":"9c58fe320f7","attrs":{"9c58fe320f7":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","hovermode":"closest","showlegend":true},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["NO","YES"],"values":[8,9],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 1: Responses from expert participants on whether they have ever used a standardised or structured clinical grading system for assessing FGS</p>
 </div>
 </div>
 </section>
@@ -102,12 +117,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="which-regions-are-regularly-included-in-the-images-you-review">1.4 Which regions are regularly included in the images you review?</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 2: The distribution of responses to which regions are regularly included in the images reviewed by experts</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-dc58a5b2239a3ef3ab5a" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-dc58a5b2239a3ef3ab5a">{"x":{"data":[{"orientation":"v","width":0.89999999999999991,"base":0,"x":[1],"y":[14],"text":"Region: cervical_forn<br />Count: 14<br />Region: cervical_forn","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(135,206,235,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"cervical_forn","legendgroup":"cervical_forn","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000013,"base":0,"x":[2],"y":[13],"text":"Region: ectocervix<br />Count: 13<br />Region: ectocervix","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(144,238,144,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"ectocervix","legendgroup":"ectocervix","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[3],"y":[12],"text":"Region: ectocervix_4q<br />Count: 12<br />Region: ectocervix_4q","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(240,128,128,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"ectocervix_4q","legendgroup":"ectocervix_4q","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[4],"y":[17],"text":"Region: ectocervix_any<br />Count: 17<br />Region: ectocervix_any","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(160,32,240,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"ectocervix_any","legendgroup":"ectocervix_any","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[5],"y":[6],"text":"Region: external_geni<br />Count:  6<br />Region: external_geni","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(255,215,0,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"external_geni","legendgroup":"external_geni","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[6],"y":[16],"text":"Region: vaginal_walls<br />Count: 16<br />Region: vaginal_walls","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(255,0,0,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"vaginal_walls","legendgroup":"vaginal_walls","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[7],"y":[2],"text":"Region: other_region<br />Count:  2<br />Region: other_region","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(255,182,193,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"name":"other_region","legendgroup":"other_region","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":84.100008682688426,"l":37.260273972602747},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,7.5999999999999996],"tickmode":"array","ticktext":["Cervical Fornices","Ectocervix","Ectocervix 4Q","Ectocervix (Any)","External Genitalia","Vaginal Walls","Other Region"],"tickvals":[1,2,3,4.0000000000000009,5,6,7],"categoryorder":"array","categoryarray":["Cervical Fornices","Ectocervix","Ectocervix 4Q","Ectocervix (Any)","External Genitalia","Vaginal Walls","Other Region"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-45,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Region","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-0.85000000000000009,17.850000000000001],"tickmode":"array","ticktext":["0","5","10","15"],"tickvals":[1.1102230246251565e-16,5,10,15],"categoryorder":"array","categoryarray":["0","5","10","15"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Sum of Responses","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c5810db6381":{"x":{},"y":{},"fill":{},"type":"bar"}},"cur_data":"9c5810db6381","visdat":{"9c5810db6381":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 2: The distribution of responses to which regions are regularly included in the images reviewed by experts</p>
 </div>
 </div>
 <p>Other:</p>
@@ -168,12 +180,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="imagine-you-have-been-given-100-colposcope-images-to-review-from-only-fgs-positive-patients.-please-assume-that-all-cases-are-a-true-positive.-in-how-many-images-do-you-believe-you-would-be-able-to-identify-one-or-more-clinical-signs-of-fgs">Imagine you have been given 100 colposcope images to review from only <strong>FGS-POSITIVE</strong> patients. Please assume that all cases are a <strong>TRUE POSITIVE</strong>. In how many images do you believe you would be able to identify one or more clinical signs of FGS?</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 3: The distribution of responses from experts that were asked how many images, from 100 true positive FGS images, they believed would contain one or more identifiable clinical signs. This may indicate the sensitivity of visual diagnostics.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-6361820381e600331f50" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-6361820381e600331f50">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[90,98,72,94,77,50,90,58,47,80,67,90,96,70,35,15,15],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[10.85,102.15000000000001],"tickmode":"array","ticktext":["25","50","75","100"],"tickvals":[25,50,75,100],"categoryorder":"array","categoryarray":["25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of responses (IQR = 40)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c5858721ff1":{"x":{},"y":{},"type":"box"}},"cur_data":"9c5858721ff1","visdat":{"9c5858721ff1":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 3: The distribution of responses from experts that were asked how many images, from 100 true positive FGS images, they believed would contain one or more identifiable clinical signs. This may indicate the sensitivity of visual diagnostics.</p>
 </div>
 </div>
 </section>
@@ -184,12 +193,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="imagine-you-have-been-given-100-colposcope-images-from-only-fgs-negative-patients.-please-assume-that-all-cases-are-a-true-negative.-in-how-many-images-do-you-believe-one-or-more-clinical-signs-that-resemble-fgs-could-still-be-identified">Imagine you have been given 100 colposcope images from only <strong>FGS-NEGATIVE</strong> patients. Please assume that all cases are a <strong>TRUE NEGATIVE</strong>. In how many images do you believe one or more clinical signs that resemble FGS could still be identified?</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 4: The distribution of responses from experts asked how many images, from 100 true negative FGS cases, they believed would contain one or more identifiable clinical signs. This may indicate the specificity of visual diagnostics</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-1bcb7db00adef6a42661" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-1bcb7db00adef6a42661">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[10,98,27,10,17,50,10,26,63,30,31,70,96,20,5,75,5],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.34999999999999964,102.65000000000001],"tickmode":"array","ticktext":["25","50","75","100"],"tickvals":[25,50,75,100],"categoryorder":"array","categoryarray":["25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 53)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c5856f7701":{"x":{},"y":{},"type":"box"}},"cur_data":"9c5856f7701","visdat":{"9c5856f7701":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 4: The distribution of responses from experts asked how many images, from 100 true negative FGS cases, they believed would contain one or more identifiable clinical signs. This may indicate the specificity of visual diagnostics</p>
 </div>
 </div>
 </section>
@@ -235,12 +241,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="this-would-be-a-more-detailed-version-of-the-simplified-system-and-would-be-used-to-comprehensively-characterise-clinical-signs-using-colposcope-images.">This would be a more detailed version of the simplified system and would be used to comprehensively characterise clinical signs using colposcope images.</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 5: Responses from participants asked if an extended clinical grading system is needed.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-fcb7dd40751b2d6353c1" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-fcb7dd40751b2d6353c1">{"x":{"visdat":{"9c5835637be2":["function () ","plotlyVisDat"]},"cur_data":"9c5835637be2","attrs":{"9c5835637be2":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["NO","YES"],"values":[6,11],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 5: Responses from participants asked if an extended clinical grading system is needed.</p>
 </div>
 </div>
 </section>
@@ -274,12 +277,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="if-we-were-to-create-an-fgs-clinical-grading-system-which-of-the-following-cervical-regions-should-be-included-for-the-purpose-of-the-grading-system-this-would-be-considered-the-region-of-interest">4.3 If we were to create an FGS clinical grading system, which of the following cervical regions should be included? For the purpose of the grading system, this would be considered the ‘region of interest’</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 6: The distribution of responses by experts asked which cervical regions should be included in the clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-13477d6fda3a5384f0e6" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-13477d6fda3a5384f0e6">{"x":{"data":[{"orientation":"v","width":0.90000000000000036,"base":0,"x":[4],"y":[12],"text":"Region: external_geni<br />Count: 12<br />Region: external_geni","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(255,215,0,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[3],"y":[12],"text":"Region: ectocervix_4q<br />Count: 12<br />Region: ectocervix_4q","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(240,128,128,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000013,"base":0,"x":[2],"y":[11],"text":"Region: ectocervix<br />Count: 11<br />Region: ectocervix","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(144,238,144,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[5],"y":[2],"text":"Region: other_region<br />Count:  2<br />Region: other_region","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(255,182,193,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.90000000000000036,"base":0,"x":[6],"y":[16],"text":"Region: vaginal_walls<br />Count: 16<br />Region: vaginal_walls","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(255,0,0,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.89999999999999991,"base":0,"x":[1],"y":[15],"text":"Region: cervical_forn<br />Count: 15<br />Region: cervical_forn","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(135,206,235,1)","line":{"width":1.8897637795275593,"color":"transparent"}},"showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":84.100008682688426,"l":37.260273972602747},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,6.5999999999999996],"tickmode":"array","ticktext":["Cervical Fornices","Ectocervix","Ectocervix 4Q","External Genitalia","Other Region","Vaginal Walls"],"tickvals":[1,2,3,3.9999999999999996,5,6],"categoryorder":"array","categoryarray":["Cervical Fornices","Ectocervix","Ectocervix 4Q","External Genitalia","Other Region","Vaginal Walls"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-45,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Region","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-0.80000000000000004,16.800000000000001],"tickmode":"array","ticktext":["0","5","10","15"],"tickvals":[0,5,10,15],"categoryorder":"array","categoryarray":["0","5","10","15"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Sum of Responses","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c587734bff":{"x":{},"y":{},"fill":{},"type":"bar"}},"cur_data":"9c587734bff","visdat":{"9c587734bff":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 6: The distribution of responses by experts asked which cervical regions should be included in the clinical grading system.</p>
 </div>
 </div>
 </section>
@@ -302,12 +302,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="should-homogeneous-sandy-patches-be-included-in-the-clinical-grading-system">5.1.1 Should homogeneous sandy patches be included in the clinical grading system?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-8-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 7: The results showing how many experts believe homogeneous sandy patches should be included in a clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-a29bdf77e35cd4bc83be" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-a29bdf77e35cd4bc83be">{"x":{"visdat":{"9c589e85b29":["function () ","plotlyVisDat"]},"cur_data":"9c589e85b29","attrs":{"9c589e85b29":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[15,2],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 7: The results showing how many experts believe homogeneous sandy patches should be included in a clinical grading system.</p>
 </div>
 </div>
 </section>
@@ -315,12 +312,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-homogenous-sandy-patches">5.1.2 Imagine you were provided with 100 colposcope images with confirmed <strong>POSITIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>HOMOGENOUS SANDY PATCHES?</strong></h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-9-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 8: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain homogeneous sandy patches in true positive FGS patients</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-a7ef4be104b7aa5a40a6" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-a7ef4be104b7aa5a40a6">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[40,53,30,33,89,50,null,74,42,66,65,60,null,50,null,40,9],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 23.75)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c581ce2653e":{"x":{},"y":{},"type":"box"}},"cur_data":"9c581ce2653e","visdat":{"9c581ce2653e":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 8: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain homogeneous sandy patches in true positive FGS patients</p>
 </div>
 </div>
 </section>
@@ -328,12 +322,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-negative-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-homogenous-sandy-patches">5.1.3 Imagine you were provided with 100 colposcope images with confirmed <strong>NEGATIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>HOMOGENOUS SANDY PATCHES</strong>?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 9: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like homogenous sandy patches.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-4edbe7adf4fb712ff658" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-4edbe7adf4fb712ff658">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[10,6,4,53,40,50,null,20,17,2,26,6,null,20,null,30,6],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of responses (IQR = 23)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c586d7064db":{"x":{},"y":{},"type":"box"}},"cur_data":"9c586d7064db","visdat":{"9c586d7064db":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 9: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like homogenous sandy patches.</p>
 </div>
 </div>
 </section>
@@ -341,12 +332,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-extent-of-the-homogenous-sandy-patches-matter-when-reviewing-images-for-fgs">5.1.4 In your opinion, does the <strong>EXTENT</strong> of the <strong>HOMOGENOUS SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-11-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 10: Results indicating how many experts believe the extent of homogeneous sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-d6fbb1293e5c6d129d42" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-d6fbb1293e5c6d129d42">{"x":{"visdat":{"9c585974725f":["function () ","plotlyVisDat"]},"cur_data":"9c585974725f","attrs":{"9c585974725f":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,4,10],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 10: Results indicating how many experts believe the extent of homogeneous sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -354,12 +342,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-location-of-the-homogenous-sandy-patches-matter-when-reviewing-images-for-fgs">5.1.5 In your opinion, does the <strong>LOCATION</strong> of the <strong>HOMOGENOUS SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-12-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 11: Results indicating how many experts believe the location of homogeneous sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-25d6d49d81aacb814ae2" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-25d6d49d81aacb814ae2">{"x":{"visdat":{"9c587f9f41de":["function () ","plotlyVisDat"]},"cur_data":"9c587f9f41de","attrs":{"9c587f9f41de":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[2,5,8],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 11: Results indicating how many experts believe the location of homogeneous sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -367,12 +352,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-intensity-of-the-homogenous-sandy-patches-matter-when-reviewing-images-for-fgs">5.1.6 In your opinion, does the <strong>INTENSITY</strong> of the <strong>HOMOGENOUS SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-13-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 12: Results indicating how many experts believe the intensity of homogeneous sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-30b2f241a3925b7dbde1" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-30b2f241a3925b7dbde1">{"x":{"visdat":{"9c58e2f35d6":["function () ","plotlyVisDat"]},"cur_data":"9c58e2f35d6","attrs":{"9c58e2f35d6":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[3,2,10],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 12: Results indicating how many experts believe the intensity of homogeneous sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -380,12 +362,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-shapeoutline-of-the-homogenous-sandy-patches-matter-when-reviewing-images-for-fgs">5.1.7 In your opinion, does the <strong>SHAPE/OUTLINE</strong> of the <strong>HOMOGENOUS SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-14-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 13: Results indicating how many experts believe the shape/outline of homogeneous sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-fd852547fa8248874f19" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-fd852547fa8248874f19">{"x":{"visdat":{"9c585dad1371":["function () ","plotlyVisDat"]},"cur_data":"9c585dad1371","attrs":{"9c585dad1371":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[4,8,3],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 13: Results indicating how many experts believe the shape/outline of homogeneous sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -409,24 +388,18 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="grainy-sandy-patches">5.2 Grainy sandy patches</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-15-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 14: The results showing how many experts believe grainy sandy patches should be included in a clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-c7a620fce6a2e4c9023d" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-c7a620fce6a2e4c9023d">{"x":{"visdat":{"9c58507a555d":["function () ","plotlyVisDat"]},"cur_data":"9c58507a555d","attrs":{"9c58507a555d":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[16,1],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 14: The results showing how many experts believe grainy sandy patches should be included in a clinical grading system.</p>
 </div>
 </div>
 <section id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-grainy-sandy-patches" class="level5">
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-grainy-sandy-patches">5.2.1 Imagine you were provided with 100 colposcope images with confirmed <strong>POSITIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>GRAINY SANDY PATCHES?</strong></h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-16-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 15: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain grainy sandy patches in true positive FGS patients</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-9ecb8853388ceab6be19" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-9ecb8853388ceab6be19">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[80,88,28,20,60,50,null,32,47,94,28,70,40,80,null,15,10],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 47)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c58187544c9":{"x":{},"y":{},"type":"box"}},"cur_data":"9c58187544c9","visdat":{"9c58187544c9":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 15: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain grainy sandy patches in true positive FGS patients</p>
 </div>
 </div>
 </section>
@@ -434,12 +407,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="if-you-were-provided-with-100-colposcope-images-with-confirmed-negative-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-grainy-sandy-patches">5.2.2 If you were provided with 100 colposcope images with confirmed <strong>NEGATIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>GRAINY SANDY PATCHES</strong>?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-17-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 16: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like grainy sandy patches</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-dd490a66e87202d6f07f" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-dd490a66e87202d6f07f">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[0,97,4,0,5,25,null,16,20,8,12,1,0,10,null,5,1],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 13)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c5843654da9":{"x":{},"y":{},"type":"box"}},"cur_data":"9c5843654da9","visdat":{"9c5843654da9":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 16: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like grainy sandy patches</p>
 </div>
 </div>
 </section>
@@ -447,12 +417,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-extent-of-the-grainy-sandy-patches-matter-when-reviewing-images-for-fgs">5.2.3 In your opinion, does the <strong>EXTENT</strong> of the <strong>GRAINY SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-18-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 17: Results indicating how many experts believe the extent of grainy sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-30bafe1c1d1bd9ef4687" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-30bafe1c1d1bd9ef4687">{"x":{"visdat":{"9c58ac028a9":["function () ","plotlyVisDat"]},"cur_data":"9c58ac028a9","attrs":{"9c58ac028a9":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,4,10],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 17: Results indicating how many experts believe the extent of grainy sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -460,12 +427,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-location-of-the-grainy-sandy-patches-matter-when-reviewing-images-for-fgs">5.2.4 In your opinion, does the <strong>LOCATION</strong> of the <strong>GRAINY SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-19-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 18: Results indicating how many experts believe the location of grainy sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-c1099255e343bceb73e8" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-c1099255e343bceb73e8">{"x":{"visdat":{"9c583ed5585a":["function () ","plotlyVisDat"]},"cur_data":"9c583ed5585a","attrs":{"9c583ed5585a":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[2,7,6],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 18: Results indicating how many experts believe the location of grainy sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -473,12 +437,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-intensity-of-the-grainy-sandy-patches-matter-when-reviewing-images-for-fgs">5.2.5 In your opinion, does the <strong>INTENSITY</strong> of the <strong>GRAINY SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-20-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 19: Results indicating how many experts believe the intensity of grainy sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-9f299e2ed82ec1d078d2" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-9f299e2ed82ec1d078d2">{"x":{"visdat":{"9c585d5f74f8":["function () ","plotlyVisDat"]},"cur_data":"9c585d5f74f8","attrs":{"9c585d5f74f8":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[3,2,10],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 19: Results indicating how many experts believe the intensity of grainy sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -486,12 +447,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-shapeoutline-of-the-homogenous-sandy-patches-matter-when-reviewing-images-for-fgs-1">5.2.6 In your opinion, does the <strong>SHAPE/OUTLINE</strong> of the <strong>HOMOGENOUS SANDY PATCHES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-21-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 20: Results indicating how many experts believe the shape/outline of grainy sandy patches matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-b54147321592ec03632f" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-b54147321592ec03632f">{"x":{"visdat":{"9c583ba05a2b":["function () ","plotlyVisDat"]},"cur_data":"9c583ba05a2b","attrs":{"9c583ba05a2b":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[4,9,2],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 20: Results indicating how many experts believe the shape/outline of grainy sandy patches matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -515,24 +473,18 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="abnormal-vessels">5.3 Abnormal vessels</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-22-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 21: The results showing how many experts believe abnormal vessels should be included in a clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-54c635c12b19c1e0af41" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-54c635c12b19c1e0af41">{"x":{"visdat":{"9c586b5415ce":["function () ","plotlyVisDat"]},"cur_data":"9c586b5415ce","attrs":{"9c586b5415ce":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[16,1],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 21: The results showing how many experts believe abnormal vessels should be included in a clinical grading system.</p>
 </div>
 </div>
 <section id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-abnormal-vessels" class="level5">
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-abnormal-vessels">5.3.1 Imagine you were provided with 100 colposcope images with confirmed <strong>POSITIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>ABNORMAL VESSELS?</strong></h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-23-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 22: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain abnormal vessels in true positive FGS patients</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-c11a2a43ce44736d3dc4" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-c11a2a43ce44736d3dc4">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[50,82,40,92,65,null,null,16,34,66,67,80,null,10,15,null,15],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 51)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c583883356d":{"x":{},"y":{},"type":"box"}},"cur_data":"9c583883356d","visdat":{"9c583883356d":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 22: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain abnormal vessels in true positive FGS patients</p>
 </div>
 </div>
 </section>
@@ -540,12 +492,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="if-you-were-provided-with-100-colposcope-images-with-confirmed-negative-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-abnormal-vessels">5.3.2 If you were provided with 100 colposcope images with confirmed <strong>NEGATIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>ABNORMAL VESSELS</strong>?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-24-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 23: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like abnormal vessels</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-3c2b61441a76723f7bf8" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-3c2b61441a76723f7bf8">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[0,96,14,25,36,null,null,10,13,40,28,10,null,0,5,null,15],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of responses (IQR= 18)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c5823f944b3":{"x":{},"y":{},"type":"box"}},"cur_data":"9c5823f944b3","visdat":{"9c5823f944b3":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 23: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like abnormal vessels</p>
 </div>
 </div>
 </section>
@@ -553,12 +502,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-extent-of-the-abnormal-vessels-matter-when-reviewing-images-for-fgs">5.3.3 In your opinion, does the <strong>EXTENT</strong> of the <strong>ABNORMAL VESSELS</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-25-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 24: Results indicating how many experts believe the extent of abnormal vessels matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-2c8ce5847ab5000d54dd" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-2c8ce5847ab5000d54dd">{"x":{"visdat":{"9c5814711121":["function () ","plotlyVisDat"]},"cur_data":"9c5814711121","attrs":{"9c5814711121":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,2,11],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 24: Results indicating how many experts believe the extent of abnormal vessels matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -566,12 +512,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-location-of-the-abnormal-vessels-matter-when-reviewing-images-for-fgs">5.3.4 In your opinion, does the LOCATION of the <strong>ABNORMAL VESSELS</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-26-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 25: Results indicating how many experts believe the location of abnormal vessels matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-bad0907730a9ec518b2b" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-bad0907730a9ec518b2b">{"x":{"visdat":{"9c58204f5fbd":["function () ","plotlyVisDat"]},"cur_data":"9c58204f5fbd","attrs":{"9c58204f5fbd":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[2,3,9],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 25: Results indicating how many experts believe the location of abnormal vessels matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -579,12 +522,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-intensity-of-the-abnormal-vessels-matter-when-reviewing-images-for-fgs">5.3.5 In your opinion, does the INTENSITY of the <strong>ABNORMAL VESSELS</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-27-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 26: Results indicating how many experts believe the intensity of abnormal vessels matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-7249cc8cc904328e9e79" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-7249cc8cc904328e9e79">{"x":{"visdat":{"9c5871613e3a":["function () ","plotlyVisDat"]},"cur_data":"9c5871613e3a","attrs":{"9c5871613e3a":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,4,9],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 26: Results indicating how many experts believe the intensity of abnormal vessels matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -592,12 +532,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-shapeoutline-of-the-abnormal-vessels-matter-when-reviewing-images-for-fgs">5.3.6 In your opinion, does the <strong>SHAPE/OUTLINE</strong> of the <strong>ABNORMAL VESSELS</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-28-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 27: Results indicating how many experts believe the shape/outline of abnormal vessels matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-49039f22bd7aa1ebfb82" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-49039f22bd7aa1ebfb82">{"x":{"visdat":{"9c5811b6700e":["function () ","plotlyVisDat"]},"cur_data":"9c5811b6700e","attrs":{"9c5811b6700e":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[3,3,8],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 27: Results indicating how many experts believe the shape/outline of abnormal vessels matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -617,24 +554,18 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="rubbery-papules">5.4 Rubbery Papules</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-29-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 28: The results showing how many experts believe rubbery papules should be included in a clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-481a2c6632331d3c6ff9" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-481a2c6632331d3c6ff9">{"x":{"visdat":{"9c586e0010da":["function () ","plotlyVisDat"]},"cur_data":"9c586e0010da","attrs":{"9c586e0010da":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[15,2],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 28: The results showing how many experts believe rubbery papules should be included in a clinical grading system.</p>
 </div>
 </div>
 <section id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-rubbery-papules" class="level5">
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-rubbery-papules">5.4.1 Imagine you were provided with 100 colposcope images with confirmed <strong>POSITIVE FGS</strong>. Approximately how many do you think would have lesions that look like <strong>RUBBERY PAPULES?</strong></h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-30-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 29: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain rubbery papules in true positive FGS patients</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-69afde043c620edabe24" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-69afde043c620edabe24">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[2,100,49,1,25,null,null,30,50,14,15,20,null,26,null,5,15],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 16)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c582d27b32":{"x":{},"y":{},"type":"box"}},"cur_data":"9c582d27b32","visdat":{"9c582d27b32":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 29: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain rubbery papules in true positive FGS patients</p>
 </div>
 </div>
 </section>
@@ -642,12 +573,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="if-you-were-provided-with-100-colposcope-images-with-confirmed-negative-fgs.-approximately-how-many-do-you-think-would-have-lesions-that-look-like-rubbery-papules">5.4.2 If you were provided with 100 colposcope images with confirmed <strong>NEGATIVE FGS</strong>. Approximately how many do you think would have lesions that look like RUBBERY PAPULES?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-31-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 30: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like rubbery papules</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-b9fb86b71413084103cc" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-b9fb86b71413084103cc">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[5,100,6,56,3,null,null,10,9,2,7,10,null,0,null,5,0],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of responses (IQR = 7)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c585cfe56a2":{"x":{},"y":{},"type":"box"}},"cur_data":"9c585cfe56a2","visdat":{"9c585cfe56a2":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 30: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would contain lesions that look like rubbery papules</p>
 </div>
 </div>
 </section>
@@ -655,12 +583,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-extent-of-the-rubbery-papules-matter-when-reviewing-images-for-fgs">5.4.3 In your opinion, does the <strong>EXTENT</strong> of the <strong>RUBBERY PAPULES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-32-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 31: Results indicating how many experts believe the extent of rubbery papules matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-8f06499fa4f065f7ca96" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-8f06499fa4f065f7ca96">{"x":{"visdat":{"9c583f1928df":["function () ","plotlyVisDat"]},"cur_data":"9c583f1928df","attrs":{"9c583f1928df":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[2,3,9],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 31: Results indicating how many experts believe the extent of rubbery papules matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -668,12 +593,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-location-of-the-rubbery-papules-matter-when-reviewing-images-for-fgs">5.4.4 In your opinion, does the LOCATION of the <strong>RUBBERY PAPULES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-33-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 32: Results indicating how many experts believe the location of rubbery papules matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-de1d1f6e546acf97b1e0" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-de1d1f6e546acf97b1e0">{"x":{"visdat":{"9c5810343f94":["function () ","plotlyVisDat"]},"cur_data":"9c5810343f94","attrs":{"9c5810343f94":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[2,7,5],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 32: Results indicating how many experts believe the location of rubbery papules matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -681,12 +603,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-intensity-of-the-rubbery-papules-matter-when-reviewing-images-for-fgs">5.4.5 In your opinion, does the INTENSITY of the <strong>RUBBERY PAPULES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-34-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 33: Results indicating how many experts believe the intensity of rubbery papules matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-372c7f8cdc9686989d45" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-372c7f8cdc9686989d45">{"x":{"visdat":{"9c581a27637c":["function () ","plotlyVisDat"]},"cur_data":"9c581a27637c","attrs":{"9c581a27637c":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[3,3,8],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 33: Results indicating how many experts believe the intensity of rubbery papules matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -694,12 +613,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-shapeoutline-of-the-rubbery-papules-matter-when-reviewing-images-for-fgs">5.4.6 In your opinion, does the SHAPE/OUTLINE of the <strong>RUBBERY PAPULES</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-35-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 34: Results indicating how many experts believe the shape/outline of rubbery papules matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-be96c93f889c3909e8ec" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-be96c93f889c3909e8ec">{"x":{"visdat":{"9c5814ca3a67":["function () ","plotlyVisDat"]},"cur_data":"9c5814ca3a67","attrs":{"9c5814ca3a67":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[6,5,3],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 34: Results indicating how many experts believe the shape/outline of rubbery papules matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -723,24 +639,18 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="contact-bleeding">5.5 Contact Bleeding</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-36-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 35: The results showing how many experts believe contact bleeding should be included in a clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-29dd594e05bc402ec04d" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-29dd594e05bc402ec04d">{"x":{"visdat":{"9c58389924c5":["function () ","plotlyVisDat"]},"cur_data":"9c58389924c5","attrs":{"9c58389924c5":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[15,2],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 35: The results showing how many experts believe contact bleeding should be included in a clinical grading system.</p>
 </div>
 </div>
 <section id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-contact-bleeding" class="level5">
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-contact-bleeding">5.5.1 Imagine you were provided with 100 colposcope images with confirmed <strong>POSITIVE FGS</strong>. Approximately how many do you think would have CONTACT BLEEDING<strong>?</strong></h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-37-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 36: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain contact bleeding in true positive FGS patients</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-6d1839e1e751bc8fc790" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-6d1839e1e751bc8fc790">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[70,null,72,10,60,null,null,30,16,35,13,65,null,null,5,25,3],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 49)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c58191a2847":{"x":{},"y":{},"type":"box"}},"cur_data":"9c58191a2847","visdat":{"9c58191a2847":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 36: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain contact bleeding in true positive FGS patients</p>
 </div>
 </div>
 </section>
@@ -748,12 +658,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="if-you-were-provided-with-100-colposcope-images-with-confirmed-negative-fgs.-approximately-how-many-do-you-think-would-have-contact-bleeding">5.5.2 If you were provided with 100 colposcope images with confirmed <strong>NEGATIVE FGS</strong>. Approximately how many do you think would have contact bleeding?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-38-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 37: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would have what looks like contact bleeding</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-ceba8ca5aa4102b329bf" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-ceba8ca5aa4102b329bf">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[10,null,25,0,50,null,null,24,51,12,32,52,null,null,5,15,3],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of responses (IQR = 27.75)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c58709e33aa":{"x":{},"y":{},"type":"box"}},"cur_data":"9c58709e33aa","visdat":{"9c58709e33aa":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 37: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would have what looks like contact bleeding</p>
 </div>
 </div>
 </section>
@@ -761,12 +668,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-extent-of-the-contact-bleeding-matter-when-reviewing-images-for-fgs">5.5.3 In your opinion, does the <strong>EXTENT</strong> of the <strong>CONTACT BLEEDING</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-39-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 38: Results indicating how many experts believe the extent of the contact bleeding matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-73dca0bf0e9672d2b5d3" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-73dca0bf0e9672d2b5d3">{"x":{"visdat":{"9c586a9d11c":["function () ","plotlyVisDat"]},"cur_data":"9c586a9d11c","attrs":{"9c586a9d11c":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,3,9],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 38: Results indicating how many experts believe the extent of the contact bleeding matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -774,12 +678,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-location-of-the-contact-bleeding-matter-when-reviewing-images-for-fgs">5.5.4 In your opinion, does the LOCATION of the <strong>CONTACT BLEEDING</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-40-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 39: Results indicating how many experts believe the location of the contact bleeding matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-8f8642a70c9700d49147" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-8f8642a70c9700d49147">{"x":{"visdat":{"9c582c444231":["function () ","plotlyVisDat"]},"cur_data":"9c582c444231","attrs":{"9c582c444231":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,4,8],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 39: Results indicating how many experts believe the location of the contact bleeding matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -787,12 +688,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-intensity-of-the-contact-bleeding-matter-when-reviewing-images-for-fgs">5.5.5 In your opinion, does the INTENSITY of the <strong>CONTACT BLEEDING</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-41-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 40: Results indicating how many experts believe the intensity of the contact bleeding matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-2cce919dc591485e9b07" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-2cce919dc591485e9b07">{"x":{"visdat":{"9c58312d130c":["function () ","plotlyVisDat"]},"cur_data":"9c58312d130c","attrs":{"9c58312d130c":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[2,3,8],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 40: Results indicating how many experts believe the intensity of the contact bleeding matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -800,12 +698,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-shapeoutline-of-the-contact-bleeding-matter-when-reviewing-images-for-fgs">5.5.6 In your opinion, does the SHAPE/OUTLINE of the <strong>CONTACT BLEEDING</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-42-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 41: Results indicating how many experts believe the shape/outline of the contact bleeding matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-adbbd091e3af175dd3f7" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-adbbd091e3af175dd3f7">{"x":{"visdat":{"9c586975ddd":["function () ","plotlyVisDat"]},"cur_data":"9c586975ddd","attrs":{"9c586975ddd":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[3,7,3],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 41: Results indicating how many experts believe the shape/outline of the contact bleeding matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -828,24 +723,18 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="abnormal-discharge">5.6 Abnormal Discharge</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-43-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 42: The results showing how many experts believe abnormal discharge should be included in a clinical grading system</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-094c64e7861e3cbabb1b" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-094c64e7861e3cbabb1b">{"x":{"visdat":{"9c58504668bf":["function () ","plotlyVisDat"]},"cur_data":"9c58504668bf","attrs":{"9c58504668bf":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[10,7],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 42: The results showing how many experts believe abnormal discharge should be included in a clinical grading system</p>
 </div>
 </div>
 <section id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-abnormal-discharge" class="level5">
 <h5 class="anchored" data-anchor-id="imagine-you-were-provided-with-100-colposcope-images-with-confirmed-positive-fgs.-approximately-how-many-do-you-think-would-have-abnormal-discharge">5.6.1 Imagine you were provided with 100 colposcope images with confirmed <strong>POSITIVE FGS</strong>. Approximately how many do you think would have ABNORMAL DISCHARGE<strong>?</strong></h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-44-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 43: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain abnormal discharge in true positive FGS patients</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-dc5f50b3fa714c6f237d" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-dc5f50b3fa714c6f237d">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[80,null,81,51,null,null,null,null,34,60,null,91,null,null,null,null,7],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of Responses (IQR = 38)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c58416b5a73":{"x":{},"y":{},"type":"box"}},"cur_data":"9c58416b5a73","visdat":{"9c58416b5a73":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 43: The distribution of expert responses regarding the number of images, out of 100, that they believe would contain abnormal discharge in true positive FGS patients</p>
 </div>
 </div>
 </section>
@@ -853,12 +742,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="if-you-were-provided-with-100-colposcope-images-with-confirmed-negative-fgs.-approximately-how-many-do-you-think-would-have-contact-bleeding-1">5.6.2 If you were provided with 100 colposcope images with confirmed <strong>NEGATIVE FGS</strong>. Approximately how many do you think would have contact bleeding?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-45-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 44: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would have abnormal discharge</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-623d5f9b5b966210e0be" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-623d5f9b5b966210e0be">{"x":{"data":[{"x":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"y":[20,null,32,0,null,null,null,null,5,32,null,73,null,null,null,null,7],"hoverinfo":"y","type":"box","fillcolor":"rgba(100,149,237,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":28.493150684931511,"l":43.105022831050235},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,1.6000000000000001],"tickmode":"array","ticktext":[""],"tickvals":[1],"categoryorder":"array","categoryarray":[""],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Response","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-5,105],"tickmode":"array","ticktext":["0","25","50","75","100"],"tickvals":[0,24.999999999999996,50,75,100],"categoryorder":"array","categoryarray":["0","25","50","75","100"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Range of responses (IQR = 26)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c581d0838ff":{"x":{},"y":{},"type":"box"}},"cur_data":"9c581d0838ff","visdat":{"9c581d0838ff":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 44: The distribution of responses from participants asked how many images, out of 100 true negative FGS cases, they believed would have abnormal discharge</p>
 </div>
 </div>
 </section>
@@ -866,12 +752,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-extent-of-the-abnormal-discharge-matter-when-reviewing-images-for-fgs">5.6.3 In your opinion, does the <strong>EXTENT</strong> of the <strong>ABNORMAL DISCHARGE</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-46-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 45: Results indicating how many experts believe the extent of the abnormal discharge matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-229e916eb3f6dbfe8b1d" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-229e916eb3f6dbfe8b1d">{"x":{"visdat":{"9c5854077a29":["function () ","plotlyVisDat"]},"cur_data":"9c5854077a29","attrs":{"9c5854077a29":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,1,6],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 45: Results indicating how many experts believe the extent of the abnormal discharge matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -879,12 +762,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-location-of-the-abnormal-discharge-matter-when-reviewing-images-for-fgs">5.6.4 In your opinion, does the LOCATION of the <strong>ABNORMAL DISCHARGE</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-47-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 46: Results indicating how many experts believe the location of the abnormal discharge matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-1cd980d837cd34adc426" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-1cd980d837cd34adc426">{"x":{"visdat":{"9c587a22a49":["function () ","plotlyVisDat"]},"cur_data":"9c587a22a49","attrs":{"9c587a22a49":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","No","Yes"],"values":[1,1,6],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 46: Results indicating how many experts believe the location of the abnormal discharge matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -892,12 +772,9 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="anchored" data-anchor-id="in-your-opinion-does-the-intensity-of-the-abnormal-discharge-matter-when-reviewing-images-for-fgs">5.6.5 In your opinion, does the INTENSITY of the <strong>ABNORMAL DISCHARGE</strong> matter when reviewing images for FGS?</h5>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-48-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 47: Results indicating how many experts believe the intensity of the abnormal discharge matters reviewing images for FGS</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-43a59166225e6f211586" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-43a59166225e6f211586">{"x":{"visdat":{"9c582f3f5ad2":["function () ","plotlyVisDat"]},"cur_data":"9c582f3f5ad2","attrs":{"9c582f3f5ad2":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Don't know","Yes"],"values":[1,7],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["cornflowerblue","mediumseagreen","darkslategrey"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 47: Results indicating how many experts believe the intensity of the abnormal discharge matters reviewing images for FGS</p>
 </div>
 </div>
 </section>
@@ -917,12 +794,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="external-genital-ulcers">5.8 External genital ulcers</h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-49-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 48: The results showing how many experts believe external genital ulcers should be included in a clinical grading system.</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-020d365a9bc1752e0dbf" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-020d365a9bc1752e0dbf">{"x":{"visdat":{"9c5871a15c8":["function () ","plotlyVisDat"]},"cur_data":"9c5871a15c8","attrs":{"9c5871a15c8":{"labels":{},"values":{},"textinfo":"label+value","marker":{"colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"","showlegend":true,"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Include","Don't include"],"values":[7,10],"textinfo":"label+value","marker":{"color":"rgba(31,119,180,1)","colors":["mediumseagreen","cornflowerblue"],"line":{"color":"black","width":2}},"sort":false,"type":"pie","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 48: The results showing how many experts believe external genital ulcers should be included in a clinical grading system.</p>
 </div>
 </div>
 </section>
@@ -957,126 +831,19 @@ ul.task-list li input[type="checkbox"] {
 <section id="potential-complicating-factors" class="level1">
 <h1><u>7.0 Potential complicating factors</u></h1>
 <section id="when-reviewing-images-for-fgs-certain-gynecological-conditions-or-symptoms-may-make-it-more-challenging-to-visualize-and-identify-fgs.-for-each-condition-or-symptom-listed-below-please-use-the-slider-to-rate-on-a-scale-of-1-to-10-the-extent-to-which-it-affects-your-ability-to-detect-fgs-lesions." class="level4">
-<h4 class="anchored" data-anchor-id="when-reviewing-images-for-fgs-certain-gynecological-conditions-or-symptoms-may-make-it-more-challenging-to-visualize-and-identify-fgs.-for-each-condition-or-symptom-listed-below-please-use-the-slider-to-rate-on-a-scale-of-1-to-10-the-extent-to-which-it-affects-your-ability-to-detect-fgs-lesions.">When reviewing images for FGS, certain gynecological conditions or symptoms may make it more challenging to visualize and identify FGS. For each condition or symptom listed below, please use the slider to rate, on a scale of 1 to 10, the extent to which it affects your ability to detect FGS lesions.</h4>
+<h4 class="anchored" data-anchor-id="when-reviewing-images-for-fgs-certain-gynecological-conditions-or-symptoms-may-make-it-more-challenging-to-visualize-and-identify-fgs.-for-each-condition-or-symptom-listed-below-please-use-the-slider-to-rate-on-a-scale-of-1-to-10-the-extent-to-which-it-affects-your-ability-to-detect-fgs-lesions.">7.1 When reviewing images for FGS, certain gynecological conditions or symptoms may make it more challenging to visualize and identify FGS. For each condition or symptom listed below, please use the slider to rate, on a scale of 1 to 10, the extent to which it affects your ability to detect FGS lesions.</h4>
 </section>
-<section id="cloudy-discharge" class="level4">
-<h4 class="anchored" data-anchor-id="cloudy-discharge">7.1 Cloudy discharge</h4>
+<section id="section" class="level4">
+<h4 class="anchored" data-anchor-id="section"></h4>
 <div class="cell">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-51-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 50: The distribution of responses by experts on how challenging FGS visual detection is in the presence of cloudy discharge</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="strawberry-cervix-visual-signs-of-trichomonas" class="level4">
-<h4 class="anchored" data-anchor-id="strawberry-cervix-visual-signs-of-trichomonas">7.2 Strawberry cervix (visual signs of trichomonas)</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-52-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 51: The distribution of responses by experts on how challenging FGS visual detection is in the presence of a strawberry cervix (visual sign of trichomonas)</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="visual-signs-of-cervical-dysplasia-consistent-with-hpv-or-cervical-cancer" class="level4">
-<h4 class="anchored" data-anchor-id="visual-signs-of-cervical-dysplasia-consistent-with-hpv-or-cervical-cancer">7.3 Visual signs of cervical dysplasia consistent with HPV or cervical cancer</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-53-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 52: The distribution of responses by experts on how challenging FGS visual detection is in the presence of lesions consistent with HPV/cervical cancer</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="contact-bleeding-1" class="level4">
-<h4 class="anchored" data-anchor-id="contact-bleeding-1">7.4 Contact bleeding</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-54-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 53: The distribution of responses by experts on how challenging FGS visual detection is in the presence of contact bleeding</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="cervical-bruising" class="level4">
-<h4 class="anchored" data-anchor-id="cervical-bruising">7.5 Cervical bruising</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-55-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 54: The distribution of responses by experts on how challenging FGS visual detection is in the presence of cervical bruising</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="menstrual-blood" class="level4">
-<h4 class="anchored" data-anchor-id="menstrual-blood">7.6 Menstrual blood</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-56-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 55: The distribution of responses by experts on how challenging FGS visual detection is in the presence of menstrual blood</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="cervical-scarring" class="level4">
-<h4 class="anchored" data-anchor-id="cervical-scarring">7.7 Cervical scarring</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-57-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 56: The distribution of responses by experts on how challenging FGS visual detection is in the presence of cervical scarring</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="genital-warts" class="level4">
-<h4 class="anchored" data-anchor-id="genital-warts">7.8 Genital warts</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-58-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 57: The distribution of responses by experts on how challenging FGS visual detection is in the presence of genital warts</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="multimorbitity-visual-signs-of-more-than-one-disease-on-the-cervixvaginal-canal" class="level4">
-<h4 class="anchored" data-anchor-id="multimorbitity-visual-signs-of-more-than-one-disease-on-the-cervixvaginal-canal">7.9 Multimorbitity (visual signs of more than one disease on the cervix/vaginal canal)</h4>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="delphi_R1Analysis_files/figure-html/unnamed-chunk-59-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption>Figure 58: The distribution of responses by experts on how challenging FGS visual detection is in the presence of multimorbidity</figcaption>
-</figure>
-</div>
+<div class="plotly html-widget html-fill-item" id="htmlwidget-e5ab5f3eb77f426fc4cd" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-e5ab5f3eb77f426fc4cd">{"x":{"data":[{"x":[4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8],"y":[0,1,8,10,10,null,10,10,8,8,6,6,2,9,4,7,10,9,1,1,9,9,5,9,8,8,10,5,2,0,null,3,8,9,8,5,5,7,9,5,6,5,10,10,7,5,8,null,8,1,1,9,null,5,5,6,9,4,6,9,9,5,5,null,6,4,2,0,9,2,3,5,10,9,1,5,9,8,5,5,10,7,10,2,null,1,9,5,7,6,9,10,2,3,10,1,5,3,0,10,null,8,5,6,0,null,2,9,3,9,1,null,0,3,5,1,5,0,8,3,9,0,8,1,5,2,5,0,null,5,3,2,2,1,0,5,5,10,2,2,9,null,2,9,8,6,8,8,5,0,5,6,5],"hoverinfo":"y","type":"box","fillcolor":"rgba(60,179,113,1)","marker":{"opacity":null,"outliercolor":"rgba(0,0,0,1)","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"},"size":5.6692913385826778},"line":{"color":"rgba(51,51,51,1)","width":1.8897637795275593},"showlegend":false,"xaxis":"x","yaxis":"y","frame":null}],"layout":{"margin":{"t":26.228310502283104,"r":7.3059360730593621,"b":120.80886826050902,"l":48.949771689497723},"font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.40000000000000002,9.5999999999999996],"tickmode":"array","ticktext":["Cervical bruising (IQR = 3)","Cervical cancer (IQR = 6.25)","Cervical scarring (IQR = 4.5)","Cloudy discharge (IQR = 4.5)","Contact bleeding (IQR = 3)","Genital warts (IQR = 4)","Menstrual blood (IQR = 4.5)","Multimorbidity (IQR = 3.75)","Strawberry cervix (IQR = 6.25)"],"tickvals":[1,2,3,4,5,6,6.9999999999999991,8,9],"categoryorder":"array","categoryarray":["Cervical bruising (IQR = 3)","Cervical cancer (IQR = 6.25)","Cervical scarring (IQR = 4.5)","Cloudy discharge (IQR = 4.5)","Contact bleeding (IQR = 3)","Genital warts (IQR = 4)","Menstrual blood (IQR = 4.5)","Multimorbidity (IQR = 3.75)","Strawberry cervix (IQR = 6.25)"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-45,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Condition","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-0.5,10.5],"tickmode":"array","ticktext":["0.0","2.5","5.0","7.5","10.0"],"tickvals":[0,2.5,5,7.5,10],"categoryorder":"array","categoryarray":["0.0","2.5","5.0","7.5","10.0"],"nticks":null,"ticks":"","tickcolor":null,"ticklen":3.6529680365296811,"tickwidth":0,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(235,235,235,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"Impact on FGS visual detection","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":null,"bordercolor":null,"borderwidth":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"9c5874632157":{"x":{},"y":{},"type":"box"}},"cur_data":"9c5874632157","visdat":{"9c5874632157":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Figure 50: The distribution of responses by experts on how challenging FGS visual detection is in the presence of various conditions</p>
 </div>
 </div>
 <section id="complicating-factors-additional-comments" class="level5">
-<h5 class="anchored" data-anchor-id="complicating-factors-additional-comments">7.10 Complicating factors additional comments</h5>
+<h5 class="anchored" data-anchor-id="complicating-factors-additional-comments">7.2 Complicating factors additional comments</h5>
 <ul>
 <li><em>“For the above questions, cloudy discharge, menstrual blood, contact bleeding - if its on images then it will be difficult to look for lesions. But if its during an investigation, then it’s not a problem, we just wipe it off and look for the lesions. For our studies, we would also always capture an additional image after wiping off any discharge/ blood etc.. therefore it really depends.”</em></li>
 </ul>
